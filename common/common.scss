@@ -124,6 +124,8 @@ input[type="color"]:focus,
 
 .search-menu .search-input {
   border: 0;
+  outline: 1px solid var(--tertiary-medium);
+  border-radius: var(--mint-border-radius);
 }
 
 .menu-panel .d-label {
